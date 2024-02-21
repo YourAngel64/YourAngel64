@@ -1,4 +1,4 @@
 Hi eveyone :D I'm Angel. Also known as Enten.
-Just a young back-end developer that fell in love with coding and video games.
-Please feel free to reach me through my discord "devadoot" for any collaboration
-I have experience on C#, C++, and Python but my speciallity is JS.
+I do back-end developing (Node JS), C and C++ software developing
+I love learning about Computer Science
+I'm trying my best to make the world a better place making tools that can be accessed by anyone in the world.
